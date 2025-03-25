@@ -166,7 +166,7 @@ export default function Profile() {
             <p className="text-white mb-4">Upgrade your account to access all premium content!</p>
             <p className="text-white mb-4">Price: Rp10.000/Permanent</p>
             <a
-              href="https://wa.me/6285736486023"
+              href="https://wa.me/6281400346604"
               target="_blank"
               rel="noopener noreferrer"
               className="block w-full bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600 transition-colors text-center mb-4"
