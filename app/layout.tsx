@@ -4,7 +4,7 @@ import { Inter } from "next/font/google"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "XdpzQ404 - WhatsApp Bot Scripts",
+  title: "Xydlan Lux - WhatsApp Bot Scripts",
   description: "A collection of powerful WhatsApp bot scripts",
 }
 
